@@ -36,3 +36,9 @@ entry("getpid");
 entry("sbrk");
 entry("sleep");
 entry("uptime");
+
+# lab2: syscall 添加
+entry("trace");
+
+# lab2: sysinfo 添加
+entry("sysinfo")
